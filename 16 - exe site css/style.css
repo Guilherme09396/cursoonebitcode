@@ -1,0 +1,19 @@
+body {
+  background-color: #2c3e50;
+}
+.texto-branco {
+  color: #ffffff;
+}
+#dia {
+  color: #f1c40f;
+}
+.dias {
+  border: 2px solid;
+  background-color: #f1c40f;
+}
+.texto-red {
+  color: #e74c3c;
+}
+#principal {
+  font-size: 15px;
+}

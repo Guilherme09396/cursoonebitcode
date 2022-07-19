@@ -1,0 +1,22 @@
+section {
+  background-color: #fffafa;
+  width: 75%;
+  margin: 0 auto 0 auto;
+}
+div {
+  padding: 10px 0 10px 50px;
+}
+.date {
+  color: #008080;
+  font-family: "Roboto", "Montserrat", Open Sans;
+  text-transform: uppercase;
+}
+.post {
+  font-family: "Open Sans", sans-serif;
+  line-height: 25px;
+  font-weight: normal;
+}
+h1 {
+  font-family: "Montserrat", "Roboto", Open Sans;
+  font-weight: bold;
+}
